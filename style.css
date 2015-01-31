@@ -35,6 +35,10 @@
     h2{
       color: #1FCCB2;
     }
+    p,
+    div {
+        color: #CDDC39;
+    }
     
     section{
         text-align: center;
